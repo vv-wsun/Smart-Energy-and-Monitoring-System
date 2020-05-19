@@ -19,8 +19,10 @@ Input and click as prompts.
 
 ## Functions of User: 
 
-change budget, check history record, check billcheck current usage and modify password. 
+check real-time and historical energy consumption, check energy tariff, modify password, receive bill, change budget and get alert.
+
 
 ## Functions of Energy Manager: 
 
-user information, search user, add user, remove user, set tariff, check bill which is sent by system.  
+add/view/remove consumer, receive monthly readings,set tariff of energy, generate bills and send to consumer automatically by e-mail.
+ 
